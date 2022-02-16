@@ -24,7 +24,7 @@ const svg = d3.select("#my_dataviz")
       .attr("transform",`translate(${margin.left},${margin.top})`);
 
 // Read dummy data
-d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/data_researcherNetwork.json").then( function(data) {
+d3.json("https://raw.githubusercontent.com/alto934/hass_network_viz/main/arcnetwork.json").then( function(data) {
 
   // List of node names
   const allNodes = data.nodes.map(d => d.name)
