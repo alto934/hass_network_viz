@@ -1,8 +1,8 @@
 {"nodes":
     [
 
-        {"name":"Humans","n":5,"grp":2,"id":"Humans"},
-        { "name": "Fossil Fuels","n":5, "id": "Fossil Fuels", "grp": 0 },
+        { "name": "Fossil Fuels","n":5, "id": "Fossil Fuels", "grp": 1},
+        { "name":"Humans","n":5,"grp":1,"id":"Humans"},
         { "name": "Earth","n":5, "id": "Earth", "grp": 1 },
         { "name": "Natural Resources","n":5, "id": "Natural Resources", "grp": 1 },
         { "name": "Energy Sources","n":5, "id": "Energy Sources", "grp": 1 },
@@ -33,7 +33,6 @@
         { "name": "Diesel","n":5, "id": "Diesel", "grp": 2 },
         { "name": "Fuel Oil","n":5, "id":"Fuel Oil", "grp":2},
         { "name": "Bitumen","n":5, "id":"Bitumen", "grp":2},
-        { "name": "Humans","n":5, "id": "Humans" , "grp": 6 },
         { "name": "Armament","n":5, "id": "Armament", "grp": 3 },
         { "name": "Utilities","n":5, "id": "Utilities", "grp": 3 },
         { "name": "Legislation","n":5, "id": "Legislation", "grp": 3 },
