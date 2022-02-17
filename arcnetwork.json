@@ -2,7 +2,7 @@
     [
 
         {"name":"Humans","n":5,"grp":2,"id":"Humans"},
-        { "name": "Fossil Fuels","n":14, "id": "Fossil Fuels", "grp": 0 },
+        { "name": "Fossil Fuels","n":5, "id": "Fossil Fuels", "grp": 0 },
         { "name": "Earth","n":5, "id": "Earth", "grp": 1 },
         { "name": "Natural Resources","n":5, "id": "Natural Resources", "grp": 1 },
         { "name": "Energy Sources","n":5, "id": "Energy Sources", "grp": 1 },
